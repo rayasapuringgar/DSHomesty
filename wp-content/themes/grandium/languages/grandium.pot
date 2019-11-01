@@ -1,0 +1,3465 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Grandium\n"
+"POT-Creation-Date: 2019-02-19 23:47+0300\n"
+"PO-Revision-Date: 2016-11-01 19:21+0300\n"
+"Last-Translator: Ninetheme <pekekonomik@gmail.com>\n"
+"Language-Team: ninetheme\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;"
+"_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "404 Page"
+msgstr ""
+
+#: ../404.php:30 ../404.php:61
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: ../404.php:60
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../archive.php:18
+msgid "Our Archive"
+msgstr ""
+
+#: ../archive.php:69 ../index.php:75
+msgid "Previous page"
+msgstr ""
+
+#: ../archive.php:70 ../index.php:76
+msgid "Next page"
+msgstr ""
+
+#: ../archive.php:71 ../content-page.php:28 ../post-format/content.php:55
+#: ../post-format/content.php:82 ../search.php:75
+msgid "Page"
+msgstr ""
+
+#: ../comments.php:26
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:34 ../comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:35 ../comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:70
+msgid "You must be "
+msgstr ""
+
+#: ../comments.php:70
+msgid "logged in"
+msgstr ""
+
+#: ../comments.php:70
+msgid "to post a comment."
+msgstr ""
+
+#: ../content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:26
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:19 ../post-format/content-audio.php:73
+#: ../post-format/content-gallery.php:61 ../post-format/content-video.php:82
+#: ../post-format/content.php:46 ../post-format/content.php:73
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: ../content-page.php:24 ../post-format/content.php:51
+#: ../post-format/content.php:78
+msgid "Pages:"
+msgstr ""
+
+#: ../content-search.php:25 ../post-format/content-audio.php:51
+#: ../post-format/content-audio.php:62 ../post-format/content-gallery.php:39
+#: ../post-format/content-gallery.php:50 ../post-format/content-video.php:60
+#: ../post-format/content-video.php:71 ../post-format/content.php:42
+#: ../post-format/content.php:67
+msgid "BY"
+msgstr ""
+
+#: ../footer.php:64
+msgid "Please add a newsletter form"
+msgstr ""
+
+#: ../footer.php:82 ../footer.php:84 ../index_header.php:66
+#: ../index_header.php:68
+msgid "grandium Theme"
+msgstr ""
+
+#: ../footer.php:92 ../index_header.php:76
+msgid "grandium"
+msgstr ""
+
+#: ../footer.php:114
+msgid "COPYRIGHT"
+msgstr ""
+
+#: ../footer.php:114
+msgid "THE GRANDIUM HOTEL"
+msgstr ""
+
+#: ../footer.php:125
+msgid "LONGRIDGE ROAD, EARLS COURT, LONDON"
+msgstr ""
+
+#: ../footer.php:133
+msgid "+1-800-123-45-67"
+msgstr ""
+
+#: ../footer.php:141
+msgid "INFO@THEGRANDIUMHOTEL.COM"
+msgstr ""
+
+#: ../fullwidth-page.php:63
+msgid "Default Page"
+msgstr ""
+
+#: ../fullwidth-page.php:79 ../index.php:39
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget "
+"commodo orci. Integer varius nibh eu mattis porta. Pellentesque dictum sem "
+"eget cursus semper. Nullam quis blandit lorem. Morbi blandit orci urna, eu "
+"congue magna faucibus at. In bibendum in mauris nec ultrices. Nunc et magna "
+"velit."
+msgstr ""
+
+#: ../functions.php:21
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:201
+#, php-format
+msgid "If you need help about demodata installation, please read docs and %s"
+msgstr ""
+
+#: ../functions.php:202
+msgid "Open a ticket"
+msgstr ""
+
+#: ../functions.php:202
+msgid "or"
+msgstr ""
+
+#: ../functions.php:202
+msgid "Dismiss"
+msgstr ""
+
+#: ../functions.php:318
+msgid "Header main left Menu"
+msgstr ""
+
+#: ../functions.php:319
+msgid "Header main right Menu"
+msgstr ""
+
+#: ../functions.php:320
+msgid "Footer short menu"
+msgstr ""
+
+#: ../functions.php:334
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../functions.php:336 ../functions.php:376 ../functions.php:385
+msgid "These are widgets for the Blog page."
+msgstr ""
+
+#: ../functions.php:344
+msgid "Widgetize footer"
+msgstr ""
+
+#: ../functions.php:346 ../functions.php:356
+msgid "These are widgets for the footer widgetize section."
+msgstr ""
+
+#: ../functions.php:354
+msgid "Widgetize single post right column"
+msgstr ""
+
+#: ../functions.php:364
+msgid "Newsletter footer"
+msgstr ""
+
+#: ../functions.php:366
+msgid "These are widgets for the footer newsletter section."
+msgstr ""
+
+#: ../functions.php:374
+msgid "Woo Single Sidebar"
+msgstr ""
+
+#: ../functions.php:383
+msgid "Woo Shop Page Sidebar"
+msgstr ""
+
+#: ../functions.php:406
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:410
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: ../functions.php:414
+msgid "Custom Post Type Permalinks"
+msgstr ""
+
+#: ../functions.php:418
+msgid "Portfolio / Gallery Manager"
+msgstr ""
+
+#: ../functions.php:422
+msgid "Meta Box"
+msgstr ""
+
+#: ../functions.php:427
+msgid "Woocommerce"
+msgstr ""
+
+#: ../functions.php:432
+msgid "Theme Options Panel"
+msgstr ""
+
+#: ../functions.php:438
+msgid "Oneclick Demodata Installer"
+msgstr ""
+
+#: ../functions.php:444
+msgid "Metabox Show/Hide"
+msgstr ""
+
+#: ../functions.php:450
+msgid "Metabox Tabs"
+msgstr ""
+
+#: ../functions.php:456
+msgid "Envato Auto Update Theme"
+msgstr ""
+
+#: ../functions.php:462
+msgid "Visual Composer"
+msgstr ""
+
+#: ../functions.php:468
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../functions.php:474
+msgid "Booked"
+msgstr ""
+
+#: ../functions.php:480
+msgid "HBook - Hotel Booking"
+msgstr ""
+
+#: ../functions.php:486
+msgid "Room Post Type"
+msgstr ""
+
+#: ../functions.php:492
+msgid "Grandium Shortcodes"
+msgstr ""
+
+#: ../functions.php:661
+msgid "Add a menu"
+msgstr ""
+
+#: ../functions.php:776
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions.php:794
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: ../functions.php:800
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:810
+msgid "Reply"
+msgstr ""
+
+#: ../functions.php:816
+msgid "Edit"
+msgstr ""
+
+#: ../header.php:22 ../header.php:24
+msgid "Loading"
+msgstr ""
+
+#: ../header.php:32
+msgid "Back to top"
+msgstr ""
+
+#: ../includes/breadcrumb.php:44
+msgid "Our Blog"
+msgstr ""
+
+#: ../includes/breadcrumb.php:45 ../includes/breadcrumb.php:47
+msgid "Home"
+msgstr ""
+
+#: ../includes/breadcrumb.php:91
+msgid "Category: "
+msgstr ""
+
+#: ../includes/breadcrumb.php:93
+msgid "Tag: "
+msgstr ""
+
+#: ../includes/breadcrumb.php:106
+msgid "Error 404"
+msgstr ""
+
+#: ../includes/breadcrumb.php:108
+msgid "Search"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:52
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:53
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:55
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:57
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:58
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:110
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:111
+#: ../includes/class-tgm-plugin-activation.php:458
+#: ../includes/class-tgm-plugin-activation.php:1568
+#: ../includes/class-tgm-plugin-activation.php:2191
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:112
+#: ../includes/class-tgm-plugin-activation.php:1978
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:113
+#: ../includes/class-tgm-plugin-activation.php:1885
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:115
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:117
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:119
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:120
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:121
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:122
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:244
+msgid "Update Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:542
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:542
+#: ../includes/class-tgm-plugin-activation.php:545
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:545
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1215
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1389
+msgid "Required"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1392
+msgid "Recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1399
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1402
+msgid "External Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1405
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1413
+msgid "Not Installed"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1417
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1419
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1425
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1428
+msgid "Requires Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1431
+msgid "Update recommended"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1440
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1473
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:1477
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:1481
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/class-tgm-plugin-activation.php:1526
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1534
+msgid "Installed version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1542
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1554
+msgid "Available version:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1568
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1575
+msgid "Plugin"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1576
+msgid "Source"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1577
+msgid "Type"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1581
+msgid "Version"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1582
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1604
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1607
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1610
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1650
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1668
+msgid "Install"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1674
+msgid "Update"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1677
+msgid "Activate"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1699
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1701
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1742
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1744
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1841
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1867
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:1977
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2134
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2137
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2139
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2143
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2145
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2145
+#: ../includes/class-tgm-plugin-activation.php:2153
+msgid "Show Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2145
+#: ../includes/class-tgm-plugin-activation.php:2153
+msgid "Hide Details"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2146
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2148
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2151
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2153
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2154
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../includes/class-tgm-plugin-activation.php:2156
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:79
+msgid "Page Subtitle / Rich Text Editor"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:99
+msgid "Page breadcrumb background color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:104
+msgid "Page breadcrumb text color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:109
+msgid "Page header padding top"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:116
+msgid "Page header padding bottom"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:123
+msgid "Page sidebar"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:127
+msgid "left"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:128
+msgid "right"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:129
+msgid "full"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:133
+msgid "Select an Item"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:316
+msgid "Room gallery images"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:317 ../includes/page-metaboxes.php:508
+#: ../includes/page-metaboxes.php:749
+msgid "Select the images from the media library or upload your new ones."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:428
+msgid "Member Social Box"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:502 ../includes/page-metaboxes.php:733
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:507 ../includes/page-metaboxes.php:748
+msgid "Select Images"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:518
+msgid "Quote Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:522
+msgid "The Quote"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:523
+msgid "Write your quote in this field."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:529
+msgid "The Author"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:530
+msgid "Enter the name of the author of this quote."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:535 ../includes/page-metaboxes.php:563
+#: ../includes/page-metaboxes.php:670
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:536
+msgid "Choose the background color for this quote."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:541 ../includes/page-metaboxes.php:570
+#: ../includes/page-metaboxes.php:677
+msgid "Background Opacity"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:542 ../includes/page-metaboxes.php:571
+#: ../includes/page-metaboxes.php:678
+msgid "Choose the opacity of the background color."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:553
+msgid "Link Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:557
+msgid "The URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:558
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:564
+msgid "Choose the background color for this link."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:582
+msgid "Image Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:586
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:587
+msgid "Check this to enable the lightbox."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:591 ../includes/theme-options.php:354
+msgid "Yes"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:592 ../includes/theme-options.php:358
+msgid "No"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:598
+msgid "Enter URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:599
+msgid "Insert the url for the image."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:609 ../includes/page-metaboxes.php:759
+msgid "Audio Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:614 ../includes/page-metaboxes.php:764
+msgid ""
+"These settings enable you to embed audio in your posts. Note that for audio, "
+"you must supply both MP3 and OGG files to satisfy all browsers. For poster "
+"you can select a featured image."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:618 ../includes/page-metaboxes.php:768
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:619 ../includes/page-metaboxes.php:769
+msgid "The URL to the .mp3 audio file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:624 ../includes/page-metaboxes.php:774
+msgid "OGA File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:625 ../includes/page-metaboxes.php:775
+msgid "The URL to the .oga, .ogg audio file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:630 ../includes/page-metaboxes.php:780
+msgid "Divider"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:631 ../includes/page-metaboxes.php:781
+msgid "divider."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:636 ../includes/page-metaboxes.php:786
+msgid "SoundCloud"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:637 ../includes/page-metaboxes.php:787
+msgid "Enter the url of the soundcloud audio."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:642 ../includes/page-metaboxes.php:792
+msgid "Color"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:643 ../includes/page-metaboxes.php:793
+msgid "Choose the color."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:654
+msgid "Status Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:658
+msgid "Style"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:659
+msgid "Select status style."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:663
+msgid "Normal"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:664 ../includes/vc_admin.php:2370
+msgid "Background"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:671
+msgid "Choose the background color for this status."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:689 ../includes/page-metaboxes.php:806
+msgid "Video Settings"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:694 ../includes/page-metaboxes.php:811
+msgid ""
+"These settings enable you to embed videos into your posts. Note that for "
+"video, you must supply an M4V file to satisfy both HTML5 and Flash "
+"solutions. The optional OGV format is used to increase x-browser support for "
+"HTML5 browsers such as Firefox and Opera. For the poster, you can select a "
+"featured image."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:698 ../includes/page-metaboxes.php:815
+msgid "M4V File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:699 ../includes/page-metaboxes.php:816
+msgid "The URL to the .m4v video file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:704 ../includes/page-metaboxes.php:821
+msgid "OGV File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:705 ../includes/page-metaboxes.php:822
+msgid "The URL to the .ogv video file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:710 ../includes/page-metaboxes.php:827
+msgid "WEBM File URL"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:711 ../includes/page-metaboxes.php:828
+msgid "The URL to the .webm video file."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:716 ../includes/page-metaboxes.php:833
+msgid "Embeded Code"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:717 ../includes/page-metaboxes.php:834
+msgid "Select the preview image for this video."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:737
+msgid "Gallery Style"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:738
+msgid "Select the gallery style."
+msgstr ""
+
+#: ../includes/page-metaboxes.php:742
+msgid "Slider"
+msgstr ""
+
+#: ../includes/page-metaboxes.php:743
+msgid "Grid"
+msgstr ""
+
+#: ../includes/template-tags.php:26
+msgid " Older posts"
+msgstr ""
+
+#: ../includes/template-tags.php:30
+msgid "Newer posts "
+msgstr ""
+
+#: ../includes/template-tags.php:56
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i> %title "
+msgstr ""
+
+#: ../includes/template-tags.php:57
+msgctxt "Next post link"
+msgid "%title <i class=\"fa fa-angle-right\"></i> "
+msgstr ""
+
+#: ../includes/theme-options.php:128
+msgid "Woocommerce list page column type"
+msgstr ""
+
+#: ../includes/theme-options.php:129
+msgid "You can change column number via this option"
+msgstr ""
+
+#: ../includes/theme-options.php:136
+msgid "default"
+msgstr ""
+
+#: ../includes/theme-options.php:140
+msgid "3 column"
+msgstr ""
+
+#: ../includes/theme-options.php:144
+msgid "2 column"
+msgstr ""
+
+#: ../includes/theme-options.php:151
+msgid "Shop page mini title visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:152
+#, php-format
+msgid "Shop page mini title visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:159
+msgid "Shop page mini title"
+msgstr ""
+
+#: ../includes/theme-options.php:160
+msgid "Shop page mini title "
+msgstr ""
+
+#: ../includes/theme-options.php:167
+msgid "Shop page title visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:168
+#, php-format
+msgid "Shop page title visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:175
+msgid "Shop page title"
+msgstr ""
+
+#: ../includes/theme-options.php:176
+msgid "Shop page title "
+msgstr ""
+
+#: ../includes/theme-options.php:184 ../includes/theme-options.php:625
+msgid "Woocommerce single page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:185
+msgid "Choose Woocommerce single page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:193 ../includes/theme-options.php:633
+msgid "Woocommerce  page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:194
+msgid "Choose Woocommerce page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:203
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/theme-options.php:204
+msgid "You can add additional css"
+msgstr ""
+
+#: ../includes/theme-options.php:212
+msgid "Custom JS"
+msgstr ""
+
+#: ../includes/theme-options.php:213
+msgid "You can add additional javascript"
+msgstr ""
+
+#: ../includes/theme-options.php:221
+msgid "Theme general color"
+msgstr ""
+
+#: ../includes/theme-options.php:222 ../includes/theme-options.php:533
+#: ../includes/theme-options.php:540 ../includes/theme-options.php:547
+#: ../includes/theme-options.php:554 ../includes/theme-options.php:561
+#: ../includes/theme-options.php:568 ../includes/theme-options.php:646
+#: ../includes/theme-options.php:654 ../includes/theme-options.php:662
+#: ../includes/theme-options.php:670 ../includes/theme-options.php:678
+#: ../includes/theme-options.php:686 ../includes/theme-options.php:694
+#: ../includes/theme-options.php:705 ../includes/theme-options.php:713
+#: ../includes/theme-options.php:721 ../includes/theme-options.php:729
+#: ../includes/theme-options.php:737 ../includes/theme-options.php:745
+#: ../includes/theme-options.php:753 ../includes/theme-options.php:761
+#: ../includes/theme-options.php:769 ../includes/theme-options.php:777
+#: ../includes/theme-options.php:785 ../includes/theme-options.php:793
+#: ../includes/theme-options.php:802 ../includes/theme-options.php:810
+#: ../includes/theme-options.php:818 ../includes/theme-options.php:826
+#: ../includes/theme-options.php:835 ../includes/theme-options.php:843
+#: ../includes/theme-options.php:851 ../includes/theme-options.php:859
+#: ../includes/theme-options.php:867 ../includes/theme-options.php:875
+#: ../includes/theme-options.php:883 ../includes/theme-options.php:891
+#: ../includes/theme-options.php:923 ../includes/theme-options.php:980
+#: ../includes/theme-options.php:1026 ../includes/theme-options.php:1059
+#: ../includes/theme-options.php:1125 ../includes/theme-options.php:1150
+#: ../includes/theme-options.php:1173 ../includes/theme-options.php:1238
+#: ../includes/theme-options.php:1264 ../includes/theme-options.php:1287
+#: ../includes/theme-options.php:1350 ../includes/theme-options.php:1376
+#: ../includes/theme-options.php:1390 ../includes/theme-options.php:1398
+#: ../includes/theme-options.php:1425 ../includes/theme-options.php:1432
+#: ../includes/theme-options.php:1439 ../includes/theme-options.php:1655
+#: ../includes/theme-options.php:1662 ../includes/theme-options.php:1669
+#: ../includes/theme-options.php:1676
+msgid "Please select color"
+msgstr ""
+
+#: ../includes/theme-options.php:234
+msgid "Header top area visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:235
+#, php-format
+msgid "Header top visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:242
+msgid "Header top area contact visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:243
+#, php-format
+msgid "Header top contact visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:271
+msgid "Header social icon target social media"
+msgstr ""
+
+#: ../includes/theme-options.php:272 ../includes/theme-options.php:1553
+msgid "Select social media target type. Default : _blank"
+msgstr ""
+
+#: ../includes/theme-options.php:279 ../includes/theme-options.php:1560
+msgid "_blank"
+msgstr ""
+
+#: ../includes/theme-options.php:283 ../includes/theme-options.php:1564
+msgid "_self"
+msgstr ""
+
+#: ../includes/theme-options.php:287 ../includes/theme-options.php:1568
+msgid "_parent"
+msgstr ""
+
+#: ../includes/theme-options.php:291 ../includes/theme-options.php:1572
+msgid "_top"
+msgstr ""
+
+#: ../includes/theme-options.php:318
+msgid "Header top language dropdown visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:319
+#, php-format
+msgid "Header top language dropdown visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:345
+msgid "Active item"
+msgstr ""
+
+#: ../includes/theme-options.php:346
+msgid "You can select your first active language item"
+msgstr ""
+
+#: ../includes/theme-options.php:369
+msgid "Logo Type"
+msgstr ""
+
+#: ../includes/theme-options.php:370
+msgid "Please choose logo type"
+msgstr ""
+
+#: ../includes/theme-options.php:378
+msgid "Image Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:383
+msgid "Text Logo"
+msgstr ""
+
+#: ../includes/theme-options.php:400
+msgid "Logo image width"
+msgstr ""
+
+#: ../includes/theme-options.php:401
+msgid "Blog Pages width"
+msgstr ""
+
+#: ../includes/theme-options.php:410
+msgid "Logo image height"
+msgstr ""
+
+#: ../includes/theme-options.php:411
+msgid "Blog Pages height"
+msgstr ""
+
+#: ../includes/theme-options.php:431
+msgid "Preloader"
+msgstr ""
+
+#: ../includes/theme-options.php:432
+#, php-format
+msgid "Preloader visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:440
+msgid "Custom preloader background image"
+msgstr ""
+
+#: ../includes/theme-options.php:441
+msgid "You can upload your  image"
+msgstr ""
+
+#: ../includes/theme-options.php:453
+msgid "Google Fonts"
+msgstr ""
+
+#: ../includes/theme-options.php:466
+msgid "Typography"
+msgstr ""
+
+#: ../includes/theme-options.php:473
+msgid "Typography a"
+msgstr ""
+
+#: ../includes/theme-options.php:480
+msgid "Typography h1"
+msgstr ""
+
+#: ../includes/theme-options.php:487
+msgid "Typography h2"
+msgstr ""
+
+#: ../includes/theme-options.php:494
+msgid "Typography h3"
+msgstr ""
+
+#: ../includes/theme-options.php:501
+msgid "Typography h4"
+msgstr ""
+
+#: ../includes/theme-options.php:508
+msgid "Typography h5"
+msgstr ""
+
+#: ../includes/theme-options.php:515
+msgid "Typography h6"
+msgstr ""
+
+#: ../includes/theme-options.php:523 ../includes/theme-options.php:524
+msgid "Navigation menu item font-size"
+msgstr ""
+
+#: ../includes/theme-options.php:532
+msgid "Theme header background color "
+msgstr ""
+
+#: ../includes/theme-options.php:539
+msgid "Theme navigation menu item color"
+msgstr ""
+
+#: ../includes/theme-options.php:546
+msgid "Theme navigation menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:553
+msgid "Theme header dropdown background color "
+msgstr ""
+
+#: ../includes/theme-options.php:560
+msgid "Theme navigation dropdown menu item color"
+msgstr ""
+
+#: ../includes/theme-options.php:567
+msgid "Theme navigation dropdown menu item hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:576
+msgid "Blog Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:577
+msgid "Please choose blog page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:584
+msgid "Default Page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:585
+msgid "Please choose default page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:592
+msgid "Search page Layout"
+msgstr ""
+
+#: ../includes/theme-options.php:593
+msgid "Please choose search page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:600
+msgid "Blog single page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:601
+msgid "Please choose post page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:608
+msgid "archive page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:609
+msgid "Please choose archive page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:616
+msgid "404 page layout"
+msgstr ""
+
+#: ../includes/theme-options.php:617 ../includes/theme-options.php:634
+msgid "Please choose 404 page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:626
+msgid "Please choose Woocommerce single page layout type"
+msgstr ""
+
+#: ../includes/theme-options.php:645
+msgid "Theme Sidebar widget area background color"
+msgstr ""
+
+#: ../includes/theme-options.php:653
+msgid "Theme Sidebar widget general color"
+msgstr ""
+
+#: ../includes/theme-options.php:661
+msgid "Theme Sidebar widget title color"
+msgstr ""
+
+#: ../includes/theme-options.php:669
+msgid "Theme Sidebar link title color"
+msgstr ""
+
+#: ../includes/theme-options.php:677
+msgid "Theme Sidebar link title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:685
+msgid "Theme Sidebar search submit text color"
+msgstr ""
+
+#: ../includes/theme-options.php:693
+msgid "Theme Sidebar search submit background color"
+msgstr ""
+
+#: ../includes/theme-options.php:704
+msgid "Blog Post Title color"
+msgstr ""
+
+#: ../includes/theme-options.php:712
+msgid "Blog Post Title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:720
+msgid "Blog Post Meta Title color"
+msgstr ""
+
+#: ../includes/theme-options.php:728
+msgid "Blog Post Meta Link Text color"
+msgstr ""
+
+#: ../includes/theme-options.php:736
+msgid "Blog Post Meta Link Text hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:744
+msgid "Blog Post Meta Link Text background color"
+msgstr ""
+
+#: ../includes/theme-options.php:752
+msgid "Blog Post Meta Link Text background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:760
+msgid "Blog Post Paragraph color"
+msgstr ""
+
+#: ../includes/theme-options.php:768
+msgid "Blog Post button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:776
+msgid "Blog Post button background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:784
+msgid "Blog Post button title color"
+msgstr ""
+
+#: ../includes/theme-options.php:792
+msgid "Blog Post button title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:801
+msgid "Blog Post Share Icon background color"
+msgstr ""
+
+#: ../includes/theme-options.php:809
+msgid "Blog Post Share Icon background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:817
+msgid "Blog Post Share Icon color"
+msgstr ""
+
+#: ../includes/theme-options.php:825
+msgid "Blog Post Share Icon hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:834
+msgid "Single post comment button title color"
+msgstr ""
+
+#: ../includes/theme-options.php:842
+msgid "Single post comment button title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:850
+msgid "Single post comment button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:858
+msgid "Single post comment button background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:866
+msgid "Pager button title color"
+msgstr ""
+
+#: ../includes/theme-options.php:874
+msgid "Pager button title hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:882
+msgid "Pager button background color"
+msgstr ""
+
+#: ../includes/theme-options.php:890
+msgid "Pager button background hover color"
+msgstr ""
+
+#: ../includes/theme-options.php:904
+msgid "Pages header background image visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:905
+#, php-format
+msgid "Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:913
+msgid "Blog Pages Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:914 ../includes/theme-options.php:963
+#: ../includes/theme-options.php:1050 ../includes/theme-options.php:1164
+#: ../includes/theme-options.php:1278
+msgid "You can upload your image for parallax header"
+msgstr ""
+
+#: ../includes/theme-options.php:922
+msgid "Blog Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:930 ../includes/theme-options.php:931
+msgid "Blog Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:940 ../includes/theme-options.php:1006
+#: ../includes/theme-options.php:1076 ../includes/theme-options.php:1191
+#: ../includes/theme-options.php:1304
+msgid "Header padding top"
+msgstr ""
+
+#: ../includes/theme-options.php:941 ../includes/theme-options.php:950
+#: ../includes/theme-options.php:1007 ../includes/theme-options.php:1017
+#: ../includes/theme-options.php:1077 ../includes/theme-options.php:1087
+#: ../includes/theme-options.php:1192 ../includes/theme-options.php:1202
+#: ../includes/theme-options.php:1305 ../includes/theme-options.php:1315
+msgid "You can use this option for heading text vertical align"
+msgstr ""
+
+#: ../includes/theme-options.php:949 ../includes/theme-options.php:1016
+#: ../includes/theme-options.php:1086 ../includes/theme-options.php:1201
+#: ../includes/theme-options.php:1314
+msgid "Header padding bottom"
+msgstr ""
+
+#: ../includes/theme-options.php:962
+msgid "Single Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:970
+msgid "Single room header background image"
+msgstr ""
+
+#: ../includes/theme-options.php:971
+msgid "You can upload your image header"
+msgstr ""
+
+#: ../includes/theme-options.php:979
+msgid "Single Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:988
+msgid "Single pages heading post title visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:989
+#, php-format
+msgid "Please select single pages heading post title  visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:997 ../includes/theme-options.php:998
+msgid "Single Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:1025
+msgid "Single Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1033
+msgid "Single Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1034
+msgid "Enter Single Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1049
+msgid "Archive Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:1058
+msgid "Archive Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:1067 ../includes/theme-options.php:1068
+msgid "Archive Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:1097 ../includes/theme-options.php:1133
+msgid "Archive Heading visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1098
+#, php-format
+msgid "Archive Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1105
+msgid "Archive Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1106
+msgid "Enter Archive Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1113
+msgid "Archive Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1114
+msgid "Enter Archive Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1124
+msgid "Archive Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1134
+#, php-format
+msgid "Archive slogan visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1141
+msgid "Archive Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1142
+msgid "Enter Archive Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1149
+msgid "Archive Pages paragraph/slogan color "
+msgstr ""
+
+#: ../includes/theme-options.php:1163
+msgid "404 Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:1172
+msgid "404 Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:1181 ../includes/theme-options.php:1182
+msgid "404 Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:1211
+msgid "404 Page Heading visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1212
+#, php-format
+msgid "error Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1219
+msgid "404 Page Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1220
+msgid "Enter Error Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1227
+msgid "404 Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1228
+msgid "Enter 404 Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1237
+msgid "404 Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1247
+msgid "404 Page slogan visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1248
+#, php-format
+msgid "404 Page slogan visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1255
+msgid "404 Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1256
+msgid "Enter 404 Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1263
+msgid "404 Pages paragraph/slogan color "
+msgstr ""
+
+#: ../includes/theme-options.php:1277
+msgid "Search Header Section background image"
+msgstr ""
+
+#: ../includes/theme-options.php:1286
+msgid "Search Pages Header Section background color "
+msgstr ""
+
+#: ../includes/theme-options.php:1295 ../includes/theme-options.php:1296
+msgid "Search Pages Header height"
+msgstr ""
+
+#: ../includes/theme-options.php:1324
+msgid "Search Page Heading visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1325
+#, php-format
+msgid "search Heading visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1332
+msgid "Search Page Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1333
+msgid "Enter Search Heading"
+msgstr ""
+
+#: ../includes/theme-options.php:1340
+msgid "Search Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1341
+msgid "Enter Search Page Heading font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1349
+msgid "Search Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1359
+msgid "Search Page slogan visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1360
+#, php-format
+msgid "Search Page slogan visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1367
+msgid "Search Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1368
+msgid "Enter Search Page Slogan"
+msgstr ""
+
+#: ../includes/theme-options.php:1375
+msgid "Search Pages paragraph/slogan color "
+msgstr ""
+
+#: ../includes/theme-options.php:1389
+msgid "Blog Pages Heading color "
+msgstr ""
+
+#: ../includes/theme-options.php:1397
+msgid "Blog Pages Subtitle color "
+msgstr ""
+
+#: ../includes/theme-options.php:1408
+msgid "Breadcrubms visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1409
+#, php-format
+msgid "Breadcrubms visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1416
+msgid "Breadcrubms NavXT visibility"
+msgstr ""
+
+#: ../includes/theme-options.php:1417
+#, php-format
+msgid "Breadcrubms NavXT visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1424
+msgid "Blog Pages Breadcrubms color "
+msgstr ""
+
+#: ../includes/theme-options.php:1431
+msgid "Blog Pages Breadcrubms hover color "
+msgstr ""
+
+#: ../includes/theme-options.php:1438
+msgid "Blog Pages Breadcrubms current page text color "
+msgstr ""
+
+#: ../includes/theme-options.php:1445
+msgid "Breadcrubms font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1446
+msgid "Blog/Pages Header Breadcrubms font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1458
+msgid "footer top widgetize area section"
+msgstr ""
+
+#: ../includes/theme-options.php:1459
+#, php-format
+msgid "Please choose footer widgetize section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1466
+msgid "footer newsletter section"
+msgstr ""
+
+#: ../includes/theme-options.php:1467
+#, php-format
+msgid "Please choose footer newsletter section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1490
+msgid "footer powered section"
+msgstr ""
+
+#: ../includes/theme-options.php:1491
+#, php-format
+msgid "Please choose footer copyright section %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1522
+msgid "social section visibility "
+msgstr ""
+
+#: ../includes/theme-options.php:1523
+#, php-format
+msgid "Please choose social section visibility %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1552
+msgid "Target social media"
+msgstr ""
+
+#: ../includes/theme-options.php:1578
+msgid "Social font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1579
+msgid "Footer social font size"
+msgstr ""
+
+#: ../includes/theme-options.php:1588
+msgid "Social margin-left"
+msgstr ""
+
+#: ../includes/theme-options.php:1589
+msgid "Footer social margin-left"
+msgstr ""
+
+#: ../includes/theme-options.php:1598
+msgid "Footer adress"
+msgstr ""
+
+#: ../includes/theme-options.php:1599
+#, php-format
+msgid "Please choose footer contact adress %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1613
+msgid "Footer phone"
+msgstr ""
+
+#: ../includes/theme-options.php:1614
+#, php-format
+msgid "Please choose footer phone adress %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1628
+msgid "Footer mail"
+msgstr ""
+
+#: ../includes/theme-options.php:1629
+#, php-format
+msgid "Please choose footer mail mail %s or %s."
+msgstr ""
+
+#: ../includes/theme-options.php:1654
+msgid "Footer Background  color "
+msgstr ""
+
+#: ../includes/theme-options.php:1661
+msgid "Footer text color "
+msgstr ""
+
+#: ../includes/theme-options.php:1668
+msgid "Footer Social color "
+msgstr ""
+
+#: ../includes/theme-options.php:1675
+msgid "Footer Social Icon hover color "
+msgstr ""
+
+#: ../includes/theme-options.php:1688
+msgid "Featured Room Title"
+msgstr ""
+
+#: ../includes/theme-options.php:1689
+msgid "Please add rooms main title"
+msgstr ""
+
+#: ../includes/theme-options.php:1695
+msgid "Room Details title 1"
+msgstr ""
+
+#: ../includes/theme-options.php:1696
+msgid "Please add rooms details title 1"
+msgstr ""
+
+#: ../includes/theme-options.php:1702
+msgid "Room  Details Subtitle 1"
+msgstr ""
+
+#: ../includes/theme-options.php:1703
+msgid "Please add rooms details subtitle 1"
+msgstr ""
+
+#: ../includes/theme-options.php:1709
+msgid "Room Details title 2"
+msgstr ""
+
+#: ../includes/theme-options.php:1710
+msgid "Please add rooms details title 2"
+msgstr ""
+
+#: ../includes/theme-options.php:1716
+msgid "Room  Details Subtitle 2"
+msgstr ""
+
+#: ../includes/theme-options.php:1717
+msgid "Please add rooms details subtitle 2"
+msgstr ""
+
+#: ../includes/vc_admin.php:6
+msgid "Container Layout"
+msgstr ""
+
+#: ../includes/vc_admin.php:9
+msgid "Select Style"
+msgstr ""
+
+#: ../includes/vc_admin.php:10
+msgid "Centered Content"
+msgstr ""
+
+#: ../includes/vc_admin.php:12
+msgid "Select predefined list design "
+msgstr ""
+
+#: ../includes/vc_admin.php:46
+msgid "Home Slider"
+msgstr ""
+
+#: ../includes/vc_admin.php:48 ../includes/vc_admin.php:202
+#: ../includes/vc_admin.php:345 ../includes/vc_admin.php:552
+#: ../includes/vc_admin.php:620 ../includes/vc_admin.php:734
+#: ../includes/vc_admin.php:861 ../includes/vc_admin.php:1014
+#: ../includes/vc_admin.php:1086 ../includes/vc_admin.php:1149
+#: ../includes/vc_admin.php:1346 ../includes/vc_admin.php:1431
+#: ../includes/vc_admin.php:1537 ../includes/vc_admin.php:1792
+#: ../includes/vc_admin.php:1951 ../includes/vc_admin.php:2025
+#: ../includes/vc_admin.php:2167 ../includes/vc_admin.php:2231
+#: ../includes/vc_admin.php:2386
+msgid "Grandium"
+msgstr ""
+
+#: ../includes/vc_admin.php:53 ../includes/vc_admin.php:207
+#: ../includes/vc_admin.php:350 ../includes/vc_admin.php:557
+#: ../includes/vc_admin.php:624 ../includes/vc_admin.php:738
+#: ../includes/vc_admin.php:865 ../includes/vc_admin.php:1018
+#: ../includes/vc_admin.php:1091 ../includes/vc_admin.php:1154
+#: ../includes/vc_admin.php:1350 ../includes/vc_admin.php:1435
+#: ../includes/vc_admin.php:1541 ../includes/vc_admin.php:1796
+#: ../includes/vc_admin.php:1955 ../includes/vc_admin.php:2029
+#: ../includes/vc_admin.php:2172 ../includes/vc_admin.php:2235
+#: ../includes/vc_admin.php:2390
+msgid "Section ID"
+msgstr ""
+
+#: ../includes/vc_admin.php:55 ../includes/vc_admin.php:209
+#: ../includes/vc_admin.php:352 ../includes/vc_admin.php:559
+#: ../includes/vc_admin.php:626 ../includes/vc_admin.php:740
+#: ../includes/vc_admin.php:867 ../includes/vc_admin.php:1020
+#: ../includes/vc_admin.php:1093 ../includes/vc_admin.php:1156
+#: ../includes/vc_admin.php:1352 ../includes/vc_admin.php:1437
+#: ../includes/vc_admin.php:1543 ../includes/vc_admin.php:1798
+#: ../includes/vc_admin.php:1957 ../includes/vc_admin.php:2031
+#: ../includes/vc_admin.php:2174 ../includes/vc_admin.php:2237
+#: ../includes/vc_admin.php:2392
+msgid "Add Your Section ID"
+msgstr ""
+
+#: ../includes/vc_admin.php:60
+msgid "Form Heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:62
+msgid "Add your form heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:63 ../includes/vc_admin.php:70
+msgid "Slider Form"
+msgstr ""
+
+#: ../includes/vc_admin.php:67
+msgid "Bottom form area"
+msgstr ""
+
+#: ../includes/vc_admin.php:69
+msgid "Add your form or any content"
+msgstr ""
+
+#: ../includes/vc_admin.php:75 ../includes/vc_admin.php:77
+#: ../includes/vc_admin.php:387
+msgid "Slider items"
+msgstr ""
+
+#: ../includes/vc_admin.php:82
+msgid "Section product centered image"
+msgstr ""
+
+#: ../includes/vc_admin.php:84 ../includes/vc_admin.php:1057
+msgid "Add your image"
+msgstr ""
+
+#: ../includes/vc_admin.php:88
+msgid "Slider first heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:90 ../includes/vc_admin.php:96
+#: ../includes/vc_admin.php:103 ../includes/vc_admin.php:759
+#: ../includes/vc_admin.php:910 ../includes/vc_admin.php:1051
+#: ../includes/vc_admin.php:1193
+msgid "Add your item heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:94
+msgid "Slider second heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:101
+msgid "Slider third heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:110
+msgid "Overlay Color"
+msgstr ""
+
+#: ../includes/vc_admin.php:112
+msgid "Add color."
+msgstr ""
+
+#: ../includes/vc_admin.php:113
+msgid "Overlay 1"
+msgstr ""
+
+#: ../includes/vc_admin.php:117 ../includes/vc_admin.php:259
+#: ../includes/vc_admin.php:450 ../includes/vc_admin.php:599
+#: ../includes/vc_admin.php:671 ../includes/vc_admin.php:777
+#: ../includes/vc_admin.php:928 ../includes/vc_admin.php:1064
+#: ../includes/vc_admin.php:1127 ../includes/vc_admin.php:1217
+#: ../includes/vc_admin.php:1413 ../includes/vc_admin.php:1518
+#: ../includes/vc_admin.php:1773 ../includes/vc_admin.php:1844
+#: ../includes/vc_admin.php:2008 ../includes/vc_admin.php:2082
+#: ../includes/vc_admin.php:2211 ../includes/vc_admin.php:2368
+#: ../includes/vc_admin.php:2408
+msgid "Css"
+msgstr ""
+
+#: ../includes/vc_admin.php:119 ../includes/vc_admin.php:261
+#: ../includes/vc_admin.php:452 ../includes/vc_admin.php:601
+#: ../includes/vc_admin.php:673 ../includes/vc_admin.php:779
+#: ../includes/vc_admin.php:930 ../includes/vc_admin.php:1066
+#: ../includes/vc_admin.php:1129 ../includes/vc_admin.php:1219
+#: ../includes/vc_admin.php:1415 ../includes/vc_admin.php:1520
+#: ../includes/vc_admin.php:1775 ../includes/vc_admin.php:1846
+#: ../includes/vc_admin.php:2010 ../includes/vc_admin.php:2084
+#: ../includes/vc_admin.php:2213 ../includes/vc_admin.php:2410
+msgid "Background options"
+msgstr ""
+
+#: ../includes/vc_admin.php:124
+msgid "Title 1 font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:126
+msgid "Title 1 fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:127 ../includes/vc_admin.php:134
+#: ../includes/vc_admin.php:141 ../includes/vc_admin.php:148
+#: ../includes/vc_admin.php:155 ../includes/vc_admin.php:162
+#: ../includes/vc_admin.php:169 ../includes/vc_admin.php:176
+#: ../includes/vc_admin.php:183 ../includes/vc_admin.php:269
+#: ../includes/vc_admin.php:276 ../includes/vc_admin.php:283
+#: ../includes/vc_admin.php:291 ../includes/vc_admin.php:298
+#: ../includes/vc_admin.php:305 ../includes/vc_admin.php:313
+#: ../includes/vc_admin.php:320 ../includes/vc_admin.php:327
+#: ../includes/vc_admin.php:460 ../includes/vc_admin.php:467
+#: ../includes/vc_admin.php:474 ../includes/vc_admin.php:481
+#: ../includes/vc_admin.php:488 ../includes/vc_admin.php:496
+#: ../includes/vc_admin.php:503 ../includes/vc_admin.php:510
+#: ../includes/vc_admin.php:518 ../includes/vc_admin.php:525
+#: ../includes/vc_admin.php:532 ../includes/vc_admin.php:681
+#: ../includes/vc_admin.php:688 ../includes/vc_admin.php:695
+#: ../includes/vc_admin.php:703 ../includes/vc_admin.php:710
+#: ../includes/vc_admin.php:717 ../includes/vc_admin.php:787
+#: ../includes/vc_admin.php:794 ../includes/vc_admin.php:801
+#: ../includes/vc_admin.php:809 ../includes/vc_admin.php:816
+#: ../includes/vc_admin.php:823 ../includes/vc_admin.php:831
+#: ../includes/vc_admin.php:838 ../includes/vc_admin.php:845
+#: ../includes/vc_admin.php:938 ../includes/vc_admin.php:945
+#: ../includes/vc_admin.php:952 ../includes/vc_admin.php:960
+#: ../includes/vc_admin.php:967 ../includes/vc_admin.php:974
+#: ../includes/vc_admin.php:982 ../includes/vc_admin.php:989
+#: ../includes/vc_admin.php:996 ../includes/vc_admin.php:1227
+#: ../includes/vc_admin.php:1234 ../includes/vc_admin.php:1241
+#: ../includes/vc_admin.php:1249 ../includes/vc_admin.php:1256
+#: ../includes/vc_admin.php:1263 ../includes/vc_admin.php:1271
+#: ../includes/vc_admin.php:1278 ../includes/vc_admin.php:1285
+#: ../includes/vc_admin.php:1293 ../includes/vc_admin.php:1300
+#: ../includes/vc_admin.php:1307 ../includes/vc_admin.php:1315
+#: ../includes/vc_admin.php:1322 ../includes/vc_admin.php:1329
+#: ../includes/vc_admin.php:1662 ../includes/vc_admin.php:1669
+#: ../includes/vc_admin.php:1676 ../includes/vc_admin.php:1684
+#: ../includes/vc_admin.php:1691 ../includes/vc_admin.php:1698
+#: ../includes/vc_admin.php:1706 ../includes/vc_admin.php:1713
+#: ../includes/vc_admin.php:1720 ../includes/vc_admin.php:1729
+#: ../includes/vc_admin.php:1736 ../includes/vc_admin.php:1743
+#: ../includes/vc_admin.php:1751 ../includes/vc_admin.php:1758
+#: ../includes/vc_admin.php:1765 ../includes/vc_admin.php:1854
+#: ../includes/vc_admin.php:1861 ../includes/vc_admin.php:1868
+#: ../includes/vc_admin.php:1876 ../includes/vc_admin.php:1883
+#: ../includes/vc_admin.php:1890 ../includes/vc_admin.php:1898
+#: ../includes/vc_admin.php:1905 ../includes/vc_admin.php:1912
+#: ../includes/vc_admin.php:1920 ../includes/vc_admin.php:1927
+#: ../includes/vc_admin.php:1934 ../includes/vc_admin.php:2092
+#: ../includes/vc_admin.php:2099 ../includes/vc_admin.php:2106
+#: ../includes/vc_admin.php:2114 ../includes/vc_admin.php:2121
+#: ../includes/vc_admin.php:2128 ../includes/vc_admin.php:2137
+#: ../includes/vc_admin.php:2144 ../includes/vc_admin.php:2151
+#: ../includes/vc_admin.php:2417 ../includes/vc_admin.php:2424
+#: ../includes/vc_admin.php:2431 ../includes/vc_admin.php:2439
+#: ../includes/vc_admin.php:2446 ../includes/vc_admin.php:2453
+msgid "Custom Style"
+msgstr ""
+
+#: ../includes/vc_admin.php:131
+msgid "Title 1 line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:133
+msgid "Change title 1 line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:138
+msgid "title 1 color"
+msgstr ""
+
+#: ../includes/vc_admin.php:140
+msgid "Change title 1 color."
+msgstr ""
+
+#: ../includes/vc_admin.php:145
+msgid "Title 2 font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:147
+msgid "Title 2 fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:152
+msgid "Title 2 line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:154
+msgid "Change title 2 line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:159
+msgid "title 2 color"
+msgstr ""
+
+#: ../includes/vc_admin.php:161
+msgid "Change title 2 color."
+msgstr ""
+
+#: ../includes/vc_admin.php:166
+msgid "Title 3 font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:168
+msgid "Title 3 fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:173
+msgid "Title 3 line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:175
+msgid "Change title 3 line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:180
+msgid "Title 3 color"
+msgstr ""
+
+#: ../includes/vc_admin.php:182
+msgid "Change title 3 color."
+msgstr ""
+
+#: ../includes/vc_admin.php:200
+msgid "Rooms Carousel"
+msgstr ""
+
+#: ../includes/vc_admin.php:214 ../includes/vc_admin.php:357
+msgid "Select heading visibility"
+msgstr ""
+
+#: ../includes/vc_admin.php:216 ../includes/vc_admin.php:359
+#: ../includes/vc_admin.php:2293 ../includes/vc_admin.php:2329
+msgid "You can hide/show this section heading area."
+msgstr ""
+
+#: ../includes/vc_admin.php:218 ../includes/vc_admin.php:361
+#: ../includes/vc_admin.php:652 ../includes/vc_admin.php:2296
+#: ../includes/vc_admin.php:2332
+msgid "Select a option"
+msgstr ""
+
+#: ../includes/vc_admin.php:219 ../includes/vc_admin.php:362
+#: ../includes/vc_admin.php:653 ../includes/vc_admin.php:2297
+#: ../includes/vc_admin.php:2333
+msgid "Show"
+msgstr ""
+
+#: ../includes/vc_admin.php:220 ../includes/vc_admin.php:363
+#: ../includes/vc_admin.php:654 ../includes/vc_admin.php:2298
+#: ../includes/vc_admin.php:2334
+msgid "Hide"
+msgstr ""
+
+#: ../includes/vc_admin.php:225 ../includes/vc_admin.php:368
+#: ../includes/vc_admin.php:871 ../includes/vc_admin.php:1553
+#: ../includes/vc_admin.php:1802 ../includes/vc_admin.php:1967
+msgid "Label"
+msgstr ""
+
+#: ../includes/vc_admin.php:227 ../includes/vc_admin.php:233
+#: ../includes/vc_admin.php:239 ../includes/vc_admin.php:370
+#: ../includes/vc_admin.php:376 ../includes/vc_admin.php:382
+#: ../includes/vc_admin.php:638 ../includes/vc_admin.php:661
+#: ../includes/vc_admin.php:873 ../includes/vc_admin.php:879
+#: ../includes/vc_admin.php:891
+msgid "Add Your heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:231 ../includes/vc_admin.php:374
+#: ../includes/vc_admin.php:877 ../includes/vc_admin.php:1547
+#: ../includes/vc_admin.php:1808 ../includes/vc_admin.php:1961
+#: ../includes/vc_admin.php:2241 ../includes/vc_admin.php:2384
+#: ../includes/vc_admin.php:2396
+msgid "Heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:237 ../includes/vc_admin.php:380
+#: ../includes/vc_admin.php:429 ../includes/vc_admin.php:659
+#: ../includes/vc_admin.php:889 ../includes/vc_admin.php:1036
+#: ../includes/vc_admin.php:1109 ../includes/vc_admin.php:1178
+#: ../includes/vc_admin.php:1374 ../includes/vc_admin.php:1453
+#: ../includes/vc_admin.php:1559 ../includes/vc_admin.php:1814
+#: ../includes/vc_admin.php:1973 ../includes/vc_admin.php:2402
+msgid "Description"
+msgstr ""
+
+#: ../includes/vc_admin.php:243
+msgid "Rooms CPT"
+msgstr ""
+
+#: ../includes/vc_admin.php:253
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: ../includes/vc_admin.php:254 ../includes/vc_admin.php:389
+msgid "Default"
+msgstr ""
+
+#: ../includes/vc_admin.php:266 ../includes/vc_admin.php:471
+#: ../includes/vc_admin.php:678 ../includes/vc_admin.php:784
+#: ../includes/vc_admin.php:935 ../includes/vc_admin.php:1224
+#: ../includes/vc_admin.php:1659 ../includes/vc_admin.php:1851
+msgid "Title font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:268 ../includes/vc_admin.php:473
+#: ../includes/vc_admin.php:680 ../includes/vc_admin.php:786
+#: ../includes/vc_admin.php:937 ../includes/vc_admin.php:1226
+#: ../includes/vc_admin.php:1661 ../includes/vc_admin.php:1853
+msgid "Title fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:273 ../includes/vc_admin.php:478
+#: ../includes/vc_admin.php:685 ../includes/vc_admin.php:791
+#: ../includes/vc_admin.php:942 ../includes/vc_admin.php:1231
+#: ../includes/vc_admin.php:1666 ../includes/vc_admin.php:1858
+msgid "Title line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:275 ../includes/vc_admin.php:480
+#: ../includes/vc_admin.php:687 ../includes/vc_admin.php:793
+#: ../includes/vc_admin.php:944 ../includes/vc_admin.php:1233
+#: ../includes/vc_admin.php:1668 ../includes/vc_admin.php:1860
+msgid "Change Title line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:280 ../includes/vc_admin.php:485
+#: ../includes/vc_admin.php:692 ../includes/vc_admin.php:798
+#: ../includes/vc_admin.php:949 ../includes/vc_admin.php:1238
+#: ../includes/vc_admin.php:1673 ../includes/vc_admin.php:1865
+msgid "Title color"
+msgstr ""
+
+#: ../includes/vc_admin.php:282 ../includes/vc_admin.php:487
+#: ../includes/vc_admin.php:694 ../includes/vc_admin.php:800
+#: ../includes/vc_admin.php:951 ../includes/vc_admin.php:1240
+#: ../includes/vc_admin.php:1675 ../includes/vc_admin.php:1867
+msgid "Change Title color."
+msgstr ""
+
+#: ../includes/vc_admin.php:288 ../includes/vc_admin.php:493
+#: ../includes/vc_admin.php:828 ../includes/vc_admin.php:979
+#: ../includes/vc_admin.php:1268 ../includes/vc_admin.php:1703
+#: ../includes/vc_admin.php:1895 ../includes/vc_admin.php:2111
+#: ../includes/vc_admin.php:2436
+msgid "Description font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:290 ../includes/vc_admin.php:495
+#: ../includes/vc_admin.php:830 ../includes/vc_admin.php:981
+#: ../includes/vc_admin.php:1270 ../includes/vc_admin.php:1705
+#: ../includes/vc_admin.php:1897 ../includes/vc_admin.php:2113
+#: ../includes/vc_admin.php:2438
+msgid "Description fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:295 ../includes/vc_admin.php:500
+#: ../includes/vc_admin.php:835 ../includes/vc_admin.php:986
+#: ../includes/vc_admin.php:1275 ../includes/vc_admin.php:1710
+#: ../includes/vc_admin.php:1902 ../includes/vc_admin.php:2118
+#: ../includes/vc_admin.php:2443
+msgid "Description line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:297 ../includes/vc_admin.php:502
+#: ../includes/vc_admin.php:2445
+msgid "Change description line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:302 ../includes/vc_admin.php:507
+#: ../includes/vc_admin.php:842 ../includes/vc_admin.php:993
+#: ../includes/vc_admin.php:1282 ../includes/vc_admin.php:1717
+#: ../includes/vc_admin.php:1909 ../includes/vc_admin.php:2125
+#: ../includes/vc_admin.php:2450
+msgid "Description color"
+msgstr ""
+
+#: ../includes/vc_admin.php:304 ../includes/vc_admin.php:509
+#: ../includes/vc_admin.php:2452
+msgid "Change description color."
+msgstr ""
+
+#: ../includes/vc_admin.php:310 ../includes/vc_admin.php:515
+msgid "Price font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:312 ../includes/vc_admin.php:517
+msgid "Price fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:317 ../includes/vc_admin.php:522
+msgid "Price line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:319 ../includes/vc_admin.php:524
+msgid "Change Price line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:324 ../includes/vc_admin.php:529
+msgid "Price color"
+msgstr ""
+
+#: ../includes/vc_admin.php:326 ../includes/vc_admin.php:531
+msgid "Change Price color."
+msgstr ""
+
+#: ../includes/vc_admin.php:343
+msgid "Rooms Carousel (Loop)"
+msgstr ""
+
+#: ../includes/vc_admin.php:393
+msgid "Image"
+msgstr ""
+
+#: ../includes/vc_admin.php:395 ../includes/vc_admin.php:644
+#: ../includes/vc_admin.php:904
+msgid "Add/select an image"
+msgstr ""
+
+#: ../includes/vc_admin.php:399
+msgid "Image href"
+msgstr ""
+
+#: ../includes/vc_admin.php:401
+msgid "please add item image href"
+msgstr ""
+
+#: ../includes/vc_admin.php:405
+msgid "Title"
+msgstr ""
+
+#: ../includes/vc_admin.php:407
+msgid "please add item title"
+msgstr ""
+
+#: ../includes/vc_admin.php:411
+msgid "Title href"
+msgstr ""
+
+#: ../includes/vc_admin.php:413
+msgid "please add item title href"
+msgstr ""
+
+#: ../includes/vc_admin.php:417
+msgid "Currency"
+msgstr ""
+
+#: ../includes/vc_admin.php:419 ../includes/vc_admin.php:425
+msgid "please add item currency"
+msgstr ""
+
+#: ../includes/vc_admin.php:423
+msgid "Price"
+msgstr ""
+
+#: ../includes/vc_admin.php:431
+msgid "please add item description"
+msgstr ""
+
+#: ../includes/vc_admin.php:435
+msgid "Star"
+msgstr ""
+
+#: ../includes/vc_admin.php:438
+msgid "Select style"
+msgstr ""
+
+#: ../includes/vc_admin.php:439
+msgid "Star 1"
+msgstr ""
+
+#: ../includes/vc_admin.php:440
+msgid "Star 2"
+msgstr ""
+
+#: ../includes/vc_admin.php:441
+msgid "Star 3"
+msgstr ""
+
+#: ../includes/vc_admin.php:442
+msgid "Star 4"
+msgstr ""
+
+#: ../includes/vc_admin.php:443
+msgid "Star 5"
+msgstr ""
+
+#: ../includes/vc_admin.php:457
+msgid "Image width"
+msgstr ""
+
+#: ../includes/vc_admin.php:459
+msgid "please add image width"
+msgstr ""
+
+#: ../includes/vc_admin.php:464
+msgid "Image height"
+msgstr ""
+
+#: ../includes/vc_admin.php:466
+msgid "please add image height"
+msgstr ""
+
+#: ../includes/vc_admin.php:550
+msgid "Rooms"
+msgstr ""
+
+#: ../includes/vc_admin.php:563 ../includes/vc_admin.php:1362
+msgid "Read more text"
+msgstr ""
+
+#: ../includes/vc_admin.php:565 ../includes/vc_admin.php:1364
+msgid "Add your read more text or leave blank"
+msgstr ""
+
+#: ../includes/vc_admin.php:569
+msgid "Rooms post per section"
+msgstr ""
+
+#: ../includes/vc_admin.php:571
+msgid "Default value 4. "
+msgstr ""
+
+#: ../includes/vc_admin.php:575
+msgid "Rooms post excerpt size"
+msgstr ""
+
+#: ../includes/vc_admin.php:577
+msgid "Default value 141. "
+msgstr ""
+
+#: ../includes/vc_admin.php:581
+msgid "Rooms order"
+msgstr ""
+
+#: ../includes/vc_admin.php:583
+msgid "Enter rooms order. DESC or ASC"
+msgstr ""
+
+#: ../includes/vc_admin.php:587
+msgid "Rooms orderby"
+msgstr ""
+
+#: ../includes/vc_admin.php:589
+msgid "Enter rooms orderby. Default is : date"
+msgstr ""
+
+#: ../includes/vc_admin.php:593
+msgid "Rooms category"
+msgstr ""
+
+#: ../includes/vc_admin.php:595
+msgid "Enter rooms category slug or leave blank. Default is : all"
+msgstr ""
+
+#: ../includes/vc_admin.php:618
+msgid "About"
+msgstr ""
+
+#: ../includes/vc_admin.php:630
+msgid "label"
+msgstr ""
+
+#: ../includes/vc_admin.php:632
+msgid "Add Your label"
+msgstr ""
+
+#: ../includes/vc_admin.php:636
+msgid "heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:642
+msgid "Background image"
+msgstr ""
+
+#: ../includes/vc_admin.php:648
+msgid "Background overlay"
+msgstr ""
+
+#: ../includes/vc_admin.php:650
+msgid "You can hide/show this section overlay"
+msgstr ""
+
+#: ../includes/vc_admin.php:665
+msgid "Button (Link)"
+msgstr ""
+
+#: ../includes/vc_admin.php:667 ../includes/vc_admin.php:771
+#: ../includes/vc_admin.php:922 ../includes/vc_admin.php:1511
+msgid "Add custom link."
+msgstr ""
+
+#: ../includes/vc_admin.php:700 ../includes/vc_admin.php:806
+#: ../includes/vc_admin.php:957 ../includes/vc_admin.php:1246
+#: ../includes/vc_admin.php:1681 ../includes/vc_admin.php:1873
+#: ../includes/vc_admin.php:2089
+msgid "SubTitle font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:702 ../includes/vc_admin.php:808
+#: ../includes/vc_admin.php:959 ../includes/vc_admin.php:1248
+#: ../includes/vc_admin.php:1683 ../includes/vc_admin.php:1875
+#: ../includes/vc_admin.php:2091
+msgid "SubTitle fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:707 ../includes/vc_admin.php:813
+#: ../includes/vc_admin.php:964 ../includes/vc_admin.php:1253
+#: ../includes/vc_admin.php:1688 ../includes/vc_admin.php:1880
+#: ../includes/vc_admin.php:2096
+msgid "SubTitle line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:709 ../includes/vc_admin.php:815
+#: ../includes/vc_admin.php:966 ../includes/vc_admin.php:1255
+#: ../includes/vc_admin.php:1690 ../includes/vc_admin.php:1882
+#: ../includes/vc_admin.php:2098
+msgid "Change SubTitle line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:714 ../includes/vc_admin.php:820
+#: ../includes/vc_admin.php:971 ../includes/vc_admin.php:1260
+#: ../includes/vc_admin.php:1695 ../includes/vc_admin.php:1887
+#: ../includes/vc_admin.php:2103
+msgid "SubTitle color"
+msgstr ""
+
+#: ../includes/vc_admin.php:716 ../includes/vc_admin.php:822
+#: ../includes/vc_admin.php:973 ../includes/vc_admin.php:1262
+#: ../includes/vc_admin.php:1697 ../includes/vc_admin.php:1889
+#: ../includes/vc_admin.php:2105
+msgid "Change SubTitle color."
+msgstr ""
+
+#: ../includes/vc_admin.php:732
+msgid "About Grid"
+msgstr ""
+
+#: ../includes/vc_admin.php:744
+msgid "About grid items"
+msgstr ""
+
+#: ../includes/vc_admin.php:746
+msgid "About items"
+msgstr ""
+
+#: ../includes/vc_admin.php:751
+msgid "item label"
+msgstr ""
+
+#: ../includes/vc_admin.php:753
+msgid "Add a label"
+msgstr ""
+
+#: ../includes/vc_admin.php:757 ../includes/vc_admin.php:908
+#: ../includes/vc_admin.php:1049 ../includes/vc_admin.php:1191
+msgid "Item heading "
+msgstr ""
+
+#: ../includes/vc_admin.php:763 ../includes/vc_admin.php:1997
+msgid "Your item description"
+msgstr ""
+
+#: ../includes/vc_admin.php:765 ../includes/vc_admin.php:1999
+msgid "Add item description"
+msgstr ""
+
+#: ../includes/vc_admin.php:769 ../includes/vc_admin.php:920
+msgid "Item URL (Link)"
+msgstr ""
+
+#: ../includes/vc_admin.php:837 ../includes/vc_admin.php:988
+#: ../includes/vc_admin.php:1277 ../includes/vc_admin.php:1712
+#: ../includes/vc_admin.php:1904 ../includes/vc_admin.php:2120
+msgid "Change Description line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:844 ../includes/vc_admin.php:995
+#: ../includes/vc_admin.php:1284 ../includes/vc_admin.php:1719
+#: ../includes/vc_admin.php:1911 ../includes/vc_admin.php:2127
+msgid "Change Description color."
+msgstr ""
+
+#: ../includes/vc_admin.php:859
+msgid "Features Grid"
+msgstr ""
+
+#: ../includes/vc_admin.php:883
+msgid "Item column"
+msgstr ""
+
+#: ../includes/vc_admin.php:885
+msgid "Add bootstrap classes, default : col-lg-4 col-sm-6 "
+msgstr ""
+
+#: ../includes/vc_admin.php:895
+msgid "Features grid items"
+msgstr ""
+
+#: ../includes/vc_admin.php:897 ../includes/vc_admin.php:1820
+msgid "Features items"
+msgstr ""
+
+#: ../includes/vc_admin.php:902
+msgid "item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:914 ../includes/vc_admin.php:1197
+msgid "Item description"
+msgstr ""
+
+#: ../includes/vc_admin.php:916 ../includes/vc_admin.php:1199
+msgid "Add your item description"
+msgstr ""
+
+#: ../includes/vc_admin.php:1012
+msgid "Big Caruosel Gallery"
+msgstr ""
+
+#: ../includes/vc_admin.php:1024 ../includes/vc_admin.php:1097
+#: ../includes/vc_admin.php:1166 ../includes/vc_admin.php:1356
+#: ../includes/vc_admin.php:1441
+msgid "Label first text"
+msgstr ""
+
+#: ../includes/vc_admin.php:1026 ../includes/vc_admin.php:1032
+#: ../includes/vc_admin.php:1099 ../includes/vc_admin.php:1105
+#: ../includes/vc_admin.php:1168 ../includes/vc_admin.php:1174
+#: ../includes/vc_admin.php:1358 ../includes/vc_admin.php:1370
+#: ../includes/vc_admin.php:1443 ../includes/vc_admin.php:1449
+msgid "Add your first heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:1030 ../includes/vc_admin.php:1103
+#: ../includes/vc_admin.php:1172 ../includes/vc_admin.php:1368
+#: ../includes/vc_admin.php:1447
+msgid "Heading first text"
+msgstr ""
+
+#: ../includes/vc_admin.php:1038 ../includes/vc_admin.php:1111
+#: ../includes/vc_admin.php:1180 ../includes/vc_admin.php:1376
+#: ../includes/vc_admin.php:1455
+msgid "Add any content - html code."
+msgstr ""
+
+#: ../includes/vc_admin.php:1042 ../includes/vc_admin.php:1044
+msgid "Gallery items"
+msgstr ""
+
+#: ../includes/vc_admin.php:1055 ../includes/vc_admin.php:1203
+msgid "Item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1084
+msgid "Video Section"
+msgstr ""
+
+#: ../includes/vc_admin.php:1115
+msgid "Popup video url"
+msgstr ""
+
+#: ../includes/vc_admin.php:1117
+msgid "Example : https://vimeo.com/39493181"
+msgstr ""
+
+#: ../includes/vc_admin.php:1121 ../includes/vc_admin.php:1160
+msgid "Section background image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1123 ../includes/vc_admin.php:1162
+msgid "Add image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1147
+msgid "Offers"
+msgstr ""
+
+#: ../includes/vc_admin.php:1184
+msgid "Offer item"
+msgstr ""
+
+#: ../includes/vc_admin.php:1186
+msgid "Offer items"
+msgstr ""
+
+#: ../includes/vc_admin.php:1205
+msgid "Add your Item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1209
+msgid "Button uRL (Link)"
+msgstr ""
+
+#: ../includes/vc_admin.php:1211
+msgid "Button"
+msgstr ""
+
+#: ../includes/vc_admin.php:1290
+msgid "Description offers font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:1292
+msgid "Description offers fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1297
+msgid "Description offers line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:1299
+msgid "Change Description offers line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1304
+msgid "Description offers color"
+msgstr ""
+
+#: ../includes/vc_admin.php:1306
+msgid "Change Description offers color."
+msgstr ""
+
+#: ../includes/vc_admin.php:1312
+msgid "Title offers font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:1314
+msgid "Title offers fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1319
+msgid "Title offers line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:1321
+msgid "Change Title offers line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1326
+msgid "Title offers color"
+msgstr ""
+
+#: ../includes/vc_admin.php:1328
+msgid "Change Title offers color."
+msgstr ""
+
+#: ../includes/vc_admin.php:1344
+msgid "Blog posts"
+msgstr ""
+
+#: ../includes/vc_admin.php:1380
+msgid "Post Count"
+msgstr ""
+
+#: ../includes/vc_admin.php:1382
+msgid "You can control with number your post."
+msgstr ""
+
+#: ../includes/vc_admin.php:1386 ../includes/vc_admin.php:2204
+msgid "Category"
+msgstr ""
+
+#: ../includes/vc_admin.php:1388
+msgid "Enter post category or write all"
+msgstr ""
+
+#: ../includes/vc_admin.php:1392
+msgid "excerpt size"
+msgstr ""
+
+#: ../includes/vc_admin.php:1394
+msgid "You can control with number your excerpt size of posts"
+msgstr ""
+
+#: ../includes/vc_admin.php:1398 ../includes/vc_admin.php:2191
+msgid "order"
+msgstr ""
+
+#: ../includes/vc_admin.php:1400
+msgid "Enter post order. DESC or ASC"
+msgstr ""
+
+#: ../includes/vc_admin.php:1405 ../includes/vc_admin.php:2198
+msgid "orderby"
+msgstr ""
+
+#: ../includes/vc_admin.php:1407 ../includes/vc_admin.php:2200
+msgid "Enter post orderby. Default is : date"
+msgstr ""
+
+#: ../includes/vc_admin.php:1429
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/vc_admin.php:1460
+msgid "Testimonial item"
+msgstr ""
+
+#: ../includes/vc_admin.php:1462
+msgid "Items"
+msgstr ""
+
+#: ../includes/vc_admin.php:1467
+msgid "Testimonial item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1469 ../includes/vc_admin.php:1575
+#: ../includes/vc_admin.php:1829 ../includes/vc_admin.php:2043
+#: ../includes/vc_admin.php:2049
+msgid "Add your item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1474
+msgid "Testimonial item name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1476
+msgid "name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1481
+msgid "Testimonial item description"
+msgstr ""
+
+#: ../includes/vc_admin.php:1483
+msgid "description"
+msgstr ""
+
+#: ../includes/vc_admin.php:1488
+msgid "Testimonial item grandium"
+msgstr ""
+
+#: ../includes/vc_admin.php:1490
+msgid "grandium"
+msgstr ""
+
+#: ../includes/vc_admin.php:1495
+msgid "Testimonial logo image width"
+msgstr ""
+
+#: ../includes/vc_admin.php:1497
+msgid "You can add any number for image width or leave blank"
+msgstr ""
+
+#: ../includes/vc_admin.php:1502
+msgid "Testimonial logo image height"
+msgstr ""
+
+#: ../includes/vc_admin.php:1504
+msgid "You can add any number for image height or leave blank"
+msgstr ""
+
+#: ../includes/vc_admin.php:1509
+msgid "URL (Link)"
+msgstr ""
+
+#: ../includes/vc_admin.php:1535
+msgid "Team"
+msgstr ""
+
+#: ../includes/vc_admin.php:1549 ../includes/vc_admin.php:1555
+#: ../includes/vc_admin.php:1804 ../includes/vc_admin.php:1810
+#: ../includes/vc_admin.php:1963 ../includes/vc_admin.php:1969
+#: ../includes/vc_admin.php:2398
+msgid "Add your section heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:1561 ../includes/vc_admin.php:1816
+#: ../includes/vc_admin.php:1975 ../includes/vc_admin.php:2404
+msgid "Add your description"
+msgstr ""
+
+#: ../includes/vc_admin.php:1566 ../includes/vc_admin.php:1568
+msgid "Team member"
+msgstr ""
+
+#: ../includes/vc_admin.php:1573
+msgid "Member item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1579
+msgid "Member item image link"
+msgstr ""
+
+#: ../includes/vc_admin.php:1581
+msgid "Add custom link or leave blank."
+msgstr ""
+
+#: ../includes/vc_admin.php:1585
+msgid "Your team member name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1587
+msgid "Add team member name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1591
+msgid "Your team member position"
+msgstr ""
+
+#: ../includes/vc_admin.php:1593
+msgid "Add your item position"
+msgstr ""
+
+#: ../includes/vc_admin.php:1598
+msgid "Member item social name 1"
+msgstr ""
+
+#: ../includes/vc_admin.php:1600 ../includes/vc_admin.php:1612
+#: ../includes/vc_admin.php:1624 ../includes/vc_admin.php:1636
+#: ../includes/vc_admin.php:1648
+msgid "Add your item name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1604
+msgid "Member item social link 1"
+msgstr ""
+
+#: ../includes/vc_admin.php:1606 ../includes/vc_admin.php:1618
+#: ../includes/vc_admin.php:1630 ../includes/vc_admin.php:1642
+#: ../includes/vc_admin.php:1654
+msgid "Add social icon link "
+msgstr ""
+
+#: ../includes/vc_admin.php:1610
+msgid "Member item social name 2"
+msgstr ""
+
+#: ../includes/vc_admin.php:1616
+msgid "Member item social link 2"
+msgstr ""
+
+#: ../includes/vc_admin.php:1622
+msgid "Member item social name 3"
+msgstr ""
+
+#: ../includes/vc_admin.php:1628
+msgid "Member item social link 3"
+msgstr ""
+
+#: ../includes/vc_admin.php:1634
+msgid "Member item social name 4"
+msgstr ""
+
+#: ../includes/vc_admin.php:1640
+msgid "Member item social link 4"
+msgstr ""
+
+#: ../includes/vc_admin.php:1646
+msgid "Member item social name 5"
+msgstr ""
+
+#: ../includes/vc_admin.php:1652
+msgid "Member item social link 5"
+msgstr ""
+
+#: ../includes/vc_admin.php:1726
+msgid "Team heading font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:1728
+msgid "Team heading fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1733
+msgid "Team heading line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:1735
+msgid "Change Team heading line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1740
+msgid "Team heading color"
+msgstr ""
+
+#: ../includes/vc_admin.php:1742
+msgid "Change Team heading color."
+msgstr ""
+
+#: ../includes/vc_admin.php:1748
+msgid "Team description font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:1750
+msgid "Team description fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1755
+msgid "Team description line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:1757
+msgid "Change Team description line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1762
+msgid "Team description color"
+msgstr ""
+
+#: ../includes/vc_admin.php:1764
+msgid "Change Team description color."
+msgstr ""
+
+#: ../includes/vc_admin.php:1790
+msgid "Features"
+msgstr ""
+
+#: ../includes/vc_admin.php:1822
+msgid "Features item"
+msgstr ""
+
+#: ../includes/vc_admin.php:1827
+msgid "Features item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:1833
+msgid "Features item name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1835
+msgid "Add features item name"
+msgstr ""
+
+#: ../includes/vc_admin.php:1917
+msgid "Item title font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:1919
+msgid "Item title fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1924
+msgid "Item title line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:1926
+msgid "Change Item title line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:1931
+msgid "Item title color"
+msgstr ""
+
+#: ../includes/vc_admin.php:1933
+msgid "Change Item title color."
+msgstr ""
+
+#: ../includes/vc_admin.php:1949
+msgid "Timeline"
+msgstr ""
+
+#: ../includes/vc_admin.php:1979
+msgid "Timeline item"
+msgstr ""
+
+#: ../includes/vc_admin.php:1981
+msgid "Timeline Items"
+msgstr ""
+
+#: ../includes/vc_admin.php:1985
+msgid "Your item time"
+msgstr ""
+
+#: ../includes/vc_admin.php:1987
+msgid "Add Your item label"
+msgstr ""
+
+#: ../includes/vc_admin.php:1991 ../includes/vc_admin.php:2059
+msgid "Your item title"
+msgstr ""
+
+#: ../includes/vc_admin.php:1993
+msgid "Add Your item title"
+msgstr ""
+
+#: ../includes/vc_admin.php:2023
+msgid "Services"
+msgstr ""
+
+#: ../includes/vc_admin.php:2035
+msgid "Services item"
+msgstr ""
+
+#: ../includes/vc_admin.php:2037
+msgid "Services Items"
+msgstr ""
+
+#: ../includes/vc_admin.php:2041
+msgid "Services item image"
+msgstr ""
+
+#: ../includes/vc_admin.php:2047
+msgid "Services item image small"
+msgstr ""
+
+#: ../includes/vc_admin.php:2053
+msgid "Your item lable"
+msgstr ""
+
+#: ../includes/vc_admin.php:2055
+msgid "Add Your item lable"
+msgstr ""
+
+#: ../includes/vc_admin.php:2061
+msgid "Add item title"
+msgstr ""
+
+#: ../includes/vc_admin.php:2065
+msgid "Your item content"
+msgstr ""
+
+#: ../includes/vc_admin.php:2067
+msgid "Add your item content. You can use html <p> element for paragraph"
+msgstr ""
+
+#: ../includes/vc_admin.php:2071 ../includes/vc_admin.php:2358
+msgid "Item URL ( link)"
+msgstr ""
+
+#: ../includes/vc_admin.php:2073 ../includes/vc_admin.php:2360
+msgid "Add any url"
+msgstr ""
+
+#: ../includes/vc_admin.php:2134
+msgid "Button font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:2136
+msgid "Button fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:2141
+msgid "Button color"
+msgstr ""
+
+#: ../includes/vc_admin.php:2143
+msgid "Change Button color."
+msgstr ""
+
+#: ../includes/vc_admin.php:2148
+msgid "Button bg color"
+msgstr ""
+
+#: ../includes/vc_admin.php:2150
+msgid "Change Button bg color."
+msgstr ""
+
+#: ../includes/vc_admin.php:2164
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/vc_admin.php:2168
+msgid "Frontpage portfolio section"
+msgstr ""
+
+#: ../includes/vc_admin.php:2178
+msgid "Portfolio Count"
+msgstr ""
+
+#: ../includes/vc_admin.php:2180
+msgid "You can control with number your portfolio posts"
+msgstr ""
+
+#: ../includes/vc_admin.php:2184
+msgid "Portfolio top menu all photos text option"
+msgstr ""
+
+#: ../includes/vc_admin.php:2186
+msgid "You can control all text or leave blank"
+msgstr ""
+
+#: ../includes/vc_admin.php:2193
+msgid "Enter portfolio item order. DESC or ASC"
+msgstr ""
+
+#: ../includes/vc_admin.php:2206
+msgid "Enter Portfolio category or write all"
+msgstr ""
+
+#: ../includes/vc_admin.php:2229
+msgid "Contact Section"
+msgstr ""
+
+#: ../includes/vc_admin.php:2243
+msgid "Add your heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:2247
+msgid "Google map text"
+msgstr ""
+
+#: ../includes/vc_admin.php:2249
+msgid "Default value : MAP"
+msgstr ""
+
+#: ../includes/vc_admin.php:2250
+msgid "Map"
+msgstr ""
+
+#: ../includes/vc_admin.php:2255
+msgid "Contact info"
+msgstr ""
+
+#: ../includes/vc_admin.php:2257
+msgid "Details"
+msgstr ""
+
+#: ../includes/vc_admin.php:2262
+msgid "Item heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:2264
+msgid "Left"
+msgstr ""
+
+#: ../includes/vc_admin.php:2268
+msgid "First line"
+msgstr ""
+
+#: ../includes/vc_admin.php:2270
+msgid "Add contact detail - Default for adresses"
+msgstr ""
+
+#: ../includes/vc_admin.php:2274
+msgid "Second line"
+msgstr ""
+
+#: ../includes/vc_admin.php:2276
+msgid "Add contact detail - Default for phone numbers"
+msgstr ""
+
+#: ../includes/vc_admin.php:2280
+msgid "Mail"
+msgstr ""
+
+#: ../includes/vc_admin.php:2282 ../includes/vc_admin.php:2354
+msgid "Add mail url"
+msgstr ""
+
+#: ../includes/vc_admin.php:2291
+msgid "Contact form visibility"
+msgstr ""
+
+#: ../includes/vc_admin.php:2294 ../includes/vc_admin.php:2306
+#: ../includes/vc_admin.php:2313 ../includes/vc_admin.php:2320
+msgid "Form"
+msgstr ""
+
+#: ../includes/vc_admin.php:2303 ../includes/vc_admin.php:2305
+msgid "Contact form heading"
+msgstr ""
+
+#: ../includes/vc_admin.php:2310
+msgid "Contact form description"
+msgstr ""
+
+#: ../includes/vc_admin.php:2312
+msgid "Add Contact form description"
+msgstr ""
+
+#: ../includes/vc_admin.php:2317
+msgid "Contact form "
+msgstr ""
+
+#: ../includes/vc_admin.php:2319
+msgid "Copy paste your contact form shortcode"
+msgstr ""
+
+#: ../includes/vc_admin.php:2327
+msgid "Comments area visibility"
+msgstr ""
+
+#: ../includes/vc_admin.php:2330 ../includes/vc_admin.php:2341
+msgid "Comment"
+msgstr ""
+
+#: ../includes/vc_admin.php:2339
+msgid "Comment area"
+msgstr ""
+
+#: ../includes/vc_admin.php:2346
+msgid "Icon"
+msgstr ""
+
+#: ../includes/vc_admin.php:2348
+msgid "Example : fa fa-facebook"
+msgstr ""
+
+#: ../includes/vc_admin.php:2352
+msgid "Comment item name"
+msgstr ""
+
+#: ../includes/vc_admin.php:2414
+msgid "Heading font-size"
+msgstr ""
+
+#: ../includes/vc_admin.php:2416
+msgid "Heading fontsize.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:2421
+msgid "Heading line-height"
+msgstr ""
+
+#: ../includes/vc_admin.php:2423
+msgid "Change heading line-height.use number in ( px or unit )"
+msgstr ""
+
+#: ../includes/vc_admin.php:2428
+msgid "Heading color"
+msgstr ""
+
+#: ../includes/vc_admin.php:2430
+msgid "Change heading color."
+msgstr ""
+
+#: ../index.php:21
+msgid "LATEST NEWS"
+msgstr ""
+
+#: ../index.php:30
+msgid "Blog Page"
+msgstr ""
+
+#: ../index_header.php:45
+msgid "EN"
+msgstr ""
+
+#: ../index_header.php:46
+msgid "TR"
+msgstr ""
+
+#: ../index_header.php:47
+msgid "DE"
+msgstr ""
+
+#: ../page.php:76
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget "
+"commodo orci. Integer varius nibh eu mattis porta."
+msgstr ""
+
+#: ../post-format/content-audio.php:80 ../post-format/content-gallery.php:68
+#: ../post-format/content-video.php:89 ../post-format/content.php:89
+msgid "TAGS"
+msgstr ""
+
+#: ../post-format/rooms/content.php:100
+msgid "ROOM DETAILS"
+msgstr ""
+
+#: ../post-format/rooms/content.php:118
+msgid "BOOKING"
+msgstr ""
+
+#: ../post-format/rooms/content.php:124
+msgid "Book a Room"
+msgstr ""
+
+#: ../post-format/rooms/content.php:141
+msgid "FEATURES"
+msgstr ""
+
+#: ../post-format/rooms/content.php:147
+msgid "Room Features"
+msgstr ""
+
+#: ../search.php:18
+msgid "Search Page"
+msgstr ""
+
+#: ../search.php:27
+msgid "Results found for"
+msgstr ""
+
+#: ../woocommerce-page.php:14 ../woocommerce-single.php:10
+msgid "SHOP"
+msgstr ""

@@ -1,0 +1,18 @@
+.hb-datepick-wrapper {
+	background: #fff;
+	box-shadow: 0 0 30px rgba(0,0,0,0.33), 0 0 3px rgba(0,0,0,0.2);
+	z-index: 99999;
+}
+
+.hb-dp-day > span {
+	color: #aaa;
+}
+
+.hb-dp-cmd-wrapper a {
+	background: #333;
+	color: #fff;
+}
+
+.hb-dp-cmd-wrapper a:hover {
+	background: #6f6f6f;
+}
